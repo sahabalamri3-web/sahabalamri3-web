@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" />
+  <a href="https://github.com/sahabalamri3-web?tab=followers">
+    <img src="https://img.shields.io/github/followers/sahabalamri3-web?style=social" />
   </a>
-  <a href="LINKEDIN_LINK_HERE">
+  <a href="https://www.linkedin.com/in/sahab-al-amri-33a678381">
     <img src="https://img.shields.io/badge/LinkedIn-Sahab%20Al--Amri-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -30,7 +30,7 @@ Data Science & Machine Learning enthusiast interested in data analysis, AI model
 
 ## 🗂 Projects  
 📌 ML & Data Projects:  
-https://github.com/sahabalamri3-web/Machine-Learning-Sahab/Projects  
+https://github.com/sahabalamri3-web/Machine-Learning-Sahab  
 
 ---
 
