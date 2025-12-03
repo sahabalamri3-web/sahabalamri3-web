@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Sahab Al-Amri</h1>
 
-<!--
-**sahabalamri3-web/sahabalamri3-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Computer Science Graduate · Data Science & ML Trainee</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" />
+  </a>
+  <a href="LINKEDIN_LINK_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-Sahab%20Al--Amri-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me  
+Data Science & Machine Learning enthusiast interested in data analysis, AI models, and real-world problem solving.
+
+---
+
+## 🛠 Skills  
+- Python, SQL  
+- Pandas, NumPy, Matplotlib  
+- Machine Learning (Classification, Evaluation)  
+- Git, GitHub, Jupyter  
+
+---
+
+## 🗂 Projects  
+📌 ML & Data Projects:  
+https://github.com/YOUR_USERNAME/Projects  
+
+---
+
+## 🤝 Contact  
+📧 sahabalamri40@gmail.com  
+📍 Oman
