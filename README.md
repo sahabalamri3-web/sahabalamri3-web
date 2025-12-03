@@ -30,7 +30,7 @@ Data Science & Machine Learning enthusiast interested in data analysis, AI model
 
 ## 🗂 Projects  
 📌 ML & Data Projects:  
-https://github.com/YOUR_USERNAME/Projects  
+https://github.com/sahabalamri3-web/Machine-Learning-Sahab/Projects  
 
 ---
 
