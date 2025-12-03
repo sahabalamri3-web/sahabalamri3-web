@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" />
   </a>
   <a href="LINKEDIN_LINK_HERE">
-    <img src="https://www.linkedin.com/feed/" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sahab%20Al--Amri-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
